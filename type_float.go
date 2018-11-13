@@ -6,7 +6,7 @@ import (
 	"reflect"
 )
 
-func main () {
+func main() {
 	var defaultFloat float32;
 	floatVar := 5.5
 
